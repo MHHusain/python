@@ -1,0 +1,62 @@
+
+		MUNTATHAR
+
+wmic bios get serialnumber:
+	 SerialNumber
+	PF0XDHWD
+
+show available network: 
+	netsh wlan show network
+
+wmic csproduct get name:
+	Name
+	80XL
+
+to show the hidden network:
+	netsh wlan show networks mode=bssid
+
+to show networks:
+	netsh wlan show profiles
+
+to show password:
+	netsh wlan show profiles TP-LINK_41C2 key=clear
+photoshop:
+	organization:
+		259965
+
+CHECK THE DRIVE:
+	CHKDSK /F
+     OR        CHKDSK C: /F
+
+serial number:
+	1045-1412-5685-1654-6343-1431
+user name:
+	NS
+
+location:
+	C:\Program Files (x86)\Adobe\Adobe Photoshop CS2\
+
+windows serial number:
+1045-1412-5685-1654-6343-1431
+
+
+hidden  chrome setting:
+                 chrome://flags
+
+
+
+god mode:
+		GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+pip install virtualenvwrapper-win
+
+to reset the app store:
+	wsreset
+
+
+
+
+
+
+
+
